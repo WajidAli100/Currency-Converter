@@ -8,6 +8,7 @@ A simple **Python command-line Currency Converter** that allows you to convert b
 - Real-time exchange rates
 - User-friendly command-line interface
 - Handles invalid inputs gracefully
+-[spa](https://oasiqspa.com/services/)
 
 ## 🛠️ Requirements
 
@@ -30,7 +31,7 @@ git clone https://github.com/WajidAli100/Currency-Converter.git
 Run the converter script using Python:
   python currency_converter.py
 Follow the on-screen prompts:
-[spa](https://oasiqspa.com/services/)
+
 Enter the amount
 Enter the source currency (e.g., USD)
 Enter the target currency (e.g., EUR)
@@ -52,7 +53,7 @@ USD, EUR, GBP, INR, JPY, AUD, CAD, CHF, CNY, and more.
 Alerts if invalid currency codes are entered
 Handles network errors gracefully
 🤝 Contributing
-[Puns](https://sunshinepulse.com/)
+
 Contributions are welcome! To contribute:
 
 Fork the repository
